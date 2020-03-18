@@ -1,0 +1,39 @@
+  body {
+    background-color: #fffafa;
+    margin-left: 20px;
+  }
+
+  h1 {
+    color: #512b58;
+  }
+
+  h3 {
+    color: #2a7886;
+    text-decoration: underline #2a7886;
+  }
+
+  h4 {
+    color: #381460;
+    font-weight: normal;
+  }
+
+  hr {
+    border-style: none;
+    border-bottom: dotted;
+    border-color: #f1f3f4;
+    border-width: 6px;
+    width: 30%;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-left: 0;
+  }
+
+  img {
+    height: 30%;
+  }
+
+  div {
+    width: 75%;
+    height: 75%;
+    text-align: justify;
+  }
